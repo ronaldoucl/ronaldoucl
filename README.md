@@ -7,11 +7,11 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Junior Software Developer from Costa Rica.  
-- 💻 Currently pursuing a **Bachelor’s in Software Development** at **Brigham Young University–Idaho**.  
-- 🚀 Experience in **full-stack development** with Angular, Laravel, and Python.  
-- 🤖 Interested in **AI-assisted programming**, web applications, and cloud technologies.  
-- 🌱 Always learning and improving — passionate about **problem-solving and innovation**.  
+- 💼 Junior Software Developer at **Midas Bytes**, building and maintaining scalable web applications.  
+- 🎓 Pursuing a **Bachelor’s in Software Development** at **Brigham Young University–Idaho**.  
+- 🚀 Hands-on experience in **full-stack development** with **Angular, Laravel, Python, and SQL databases**.  
+- 🤖 Skilled in leveraging **AI-assisted programming tools** to boost productivity and code quality.  
+- 🌱 Passionate about **problem-solving, continuous learning, and delivering real-world solutions** that create impact.  
 
 ---
 
@@ -34,14 +34,14 @@
 
 ## 📂 Projects  
 
-- 🔗 [Sleep Outside](https://github.com/ronaldoucl) *(E-commerce web app project)*  
-   Dynamic product detail pages using **JavaScript ES Modules**, **Vite**, and **modularized components**.  
+- 🔗 [BookNest](https://github.com/ronaldoucl/booknest-final-project-wdd330) *(Online Bookstore Project)*  
+   Final project for WDD330: integrated the **Google Books API** to allow users to search and explore books. Implemented responsive design, multi-page navigation, and local storage features for cart and favorites.  
 
-- 🔗 [Student CRUD API](https://github.com/ronaldoucl) *(Flask/Python project)*  
-   REST API with CRUD operations, integrating **Flask** and **MongoDB**.  
+- 🔗 [Shopping Cart Project](https://github.com/ronaldoucl/15-PROYECTO-Carrito) *(Vanilla JavaScript Project)*  
+   Built a functional **shopping cart system** using HTML, CSS, and JavaScript. Focused on DOM manipulation, event handling, and data persistence with local storage.  
 
-- 🔗 [C# Data Structures](https://github.com/ronaldoucl) *(Academic project)*  
-   Implementations of **Sets, Maps, and Binary Search Trees** for university coursework.  
+- 🔗 [Insurance Sales System](https://github.com/ronaldoucl/VENTA-DE-SEGUROS) *(Web Application Project)*  
+   Developed a web-based application for managing **insurance sales**, including user registration, policy management, and data storage. Applied front-end and back-end integration concepts.  
 
 *(More projects available in my repositories!)*  
 
